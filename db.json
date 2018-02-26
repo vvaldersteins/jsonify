@@ -1,4 +1,40 @@
 {
   "db": [
+    {
+      "id": 1,
+      "date": "2018-02-15",
+      "number_invoices": 11,
+      "total_amount": 114.89
+    }, {
+      "id": 2,
+      "date": "2018-02-16",
+      "number_invoices": 13,
+      "total_amount": 126.87
+    }, {
+      "id": 3,
+      "date": "2018-02-17",
+      "number_invoices": 16,
+      "total_amount": 180.84
+    }, {
+      "id": 4,
+      "date": "2018-02-18",
+      "number_invoices": 15,
+      "total_amount": 159.85
+    }, {
+      "id": 5,
+      "date": "2018-02-19",
+      "number_invoices": 18,
+      "total_amount": 223.82
+    }, {
+      "id": 6,
+      "date": "2018-02-20",
+      "number_invoices": 21,
+      "total_amount": 242.79
+    }, {
+      "id": 7,
+      "date": "2018-02-21",
+      "number_invoices": 19,
+      "total_amount": 223.81
+    }
   ]
 }
